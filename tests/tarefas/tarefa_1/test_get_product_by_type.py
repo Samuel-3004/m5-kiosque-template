@@ -1,6 +1,6 @@
 import unittest
 
-from management.product_handler import get_products_by_type
+from management.product_handle.get_products_by_type import get_products_by_type
 
 
 class TestGetProductByType(unittest.TestCase):

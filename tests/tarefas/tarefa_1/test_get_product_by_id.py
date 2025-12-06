@@ -1,6 +1,6 @@
 import unittest
 
-from management.product_handler import get_product_by_id
+from management.product_handle.get_product_by_id import get_product_by_id
 
 
 class TestGetProductById(unittest.TestCase):
